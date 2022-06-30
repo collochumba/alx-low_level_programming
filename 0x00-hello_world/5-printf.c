@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main-prints string in the printf function
+ * main-prints string of printf function
  *
- * description:using the main function 
+ * description:using the main function
  * this program prints "with proper grammar, but the outcome is a piece of art,
  * Return: 0
  */
