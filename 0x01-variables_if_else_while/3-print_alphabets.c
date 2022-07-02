@@ -2,7 +2,7 @@
 
 /**
  * main - main block
- * Description: print alphabet
+ * Description: print alphabet in lowwer and upper case
  * Return: 0
  */
 int main(void)
